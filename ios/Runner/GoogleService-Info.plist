@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBCVEo823PVmGTaANe5KP9aTKMUHu20r1U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462045708744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sahamuas</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-programming-e0916</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-programming-e0916.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462045708744:ios:a626ba36981b0c999300fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobile-programming-e0916-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
